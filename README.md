@@ -6,6 +6,9 @@ This profile is for my personal coding stuff. Due to my studies I am quite profi
 on this profile will contain `python` code. If you want to look at a good example of my coding skills take a gander at [my YT playlist breaker](https://github.com/DSMaVie/playlist-breaker).
 A more lengthy and definietly more rushed example would be [my thesis code](https://github.com/DSMaVie/ser-explo).
 
+My currently most active project would be a refactor of the queerrefs internal tool [schaukasten](https://github.com/DSMaVie/schaukasten). The code in the top-level main isn't mine. I just wanted to try some
+new `python` tools so I basically am reworking it from scratch with proper package structure.
+
 If you have any questions you can contact me via _max [dot] vieweg [at] outlook [dot] com_.
 
 ### Technologies I'd like to work with
