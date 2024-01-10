@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Max. What is yours?
 
-I recently graduated from RWTH with an M.Sc. in Data Science. Before, I studied physics in Aachen as well. Additionally, I am one of the founders of
+I recently graduated from RWTH with an M.Sc. in Data Science. Before, I studied physics in Aachen as well. Additionally, I am one of the founders and managers of
 [@QuITAC](https://github.com/QuITAC), a student club aiming to provide cloud software to another student club, the _Queerreferat an den Aachener Hochschulen e. V._
 This profile is for my personal coding stuff. Due to my studies I am quite proficient in `python`, therefore most repositories you will find
 on this profile will contain `python` code. If you want to look at a good example of my coding skills take a gander at [my YT playlist breaker](https://github.com/DSMaVie/playlist-breaker).
